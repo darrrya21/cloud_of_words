@@ -2,6 +2,5 @@
 
 Ключевые навыки были собраны с помощью [HeadHunter API](https://github.com/hhru/api).
 
-![Результат:] 
-(https://raw.githubusercontent.com/darrrya21/cloud_of_words/main/word_cloud.png)
+![Результат:](https://raw.githubusercontent.com/darrrya21/cloud_of_words/main/word_cloud.png)
 
